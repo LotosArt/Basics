@@ -1,0 +1,11 @@
+/Users/artem/RiderProjects/DomainApp/DomainCutter/bin/Debug/net8.0/DomainCutter.deps.json
+/Users/artem/RiderProjects/DomainApp/DomainCutter/bin/Debug/net8.0/DomainCutter.dll
+/Users/artem/RiderProjects/DomainApp/DomainCutter/bin/Debug/net8.0/DomainCutter.pdb
+/Users/artem/RiderProjects/DomainApp/DomainCutter/obj/Debug/net8.0/DomainCutter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/artem/RiderProjects/DomainApp/DomainCutter/obj/Debug/net8.0/DomainCutter.AssemblyInfoInputs.cache
+/Users/artem/RiderProjects/DomainApp/DomainCutter/obj/Debug/net8.0/DomainCutter.AssemblyInfo.cs
+/Users/artem/RiderProjects/DomainApp/DomainCutter/obj/Debug/net8.0/DomainCutter.csproj.CoreCompileInputs.cache
+/Users/artem/RiderProjects/DomainApp/DomainCutter/obj/Debug/net8.0/DomainCutter.dll
+/Users/artem/RiderProjects/DomainApp/DomainCutter/obj/Debug/net8.0/refint/DomainCutter.dll
+/Users/artem/RiderProjects/DomainApp/DomainCutter/obj/Debug/net8.0/DomainCutter.pdb
+/Users/artem/RiderProjects/DomainApp/DomainCutter/obj/Debug/net8.0/ref/DomainCutter.dll

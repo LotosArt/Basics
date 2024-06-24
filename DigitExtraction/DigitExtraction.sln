@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DigitExtraction", "DigitExtraction.csproj", "{F4C29038-F6EA-4B29-88F5-7DA0FD2B625E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DigitExtract", "DigitExtract\DigitExtract.csproj", "{946CD055-3362-4300-A509-2041DA3C750F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4C29038-F6EA-4B29-88F5-7DA0FD2B625E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4C29038-F6EA-4B29-88F5-7DA0FD2B625E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4C29038-F6EA-4B29-88F5-7DA0FD2B625E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4C29038-F6EA-4B29-88F5-7DA0FD2B625E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{946CD055-3362-4300-A509-2041DA3C750F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{946CD055-3362-4300-A509-2041DA3C750F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{946CD055-3362-4300-A509-2041DA3C750F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{946CD055-3362-4300-A509-2041DA3C750F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

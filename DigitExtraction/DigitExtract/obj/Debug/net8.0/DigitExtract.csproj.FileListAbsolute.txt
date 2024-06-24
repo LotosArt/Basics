@@ -1,0 +1,11 @@
+/Users/artem/RiderProjects/DigitExtraction/DigitExtract/bin/Debug/net8.0/DigitExtract.deps.json
+/Users/artem/RiderProjects/DigitExtraction/DigitExtract/bin/Debug/net8.0/DigitExtract.dll
+/Users/artem/RiderProjects/DigitExtraction/DigitExtract/bin/Debug/net8.0/DigitExtract.pdb
+/Users/artem/RiderProjects/DigitExtraction/DigitExtract/obj/Debug/net8.0/DigitExtract.GeneratedMSBuildEditorConfig.editorconfig
+/Users/artem/RiderProjects/DigitExtraction/DigitExtract/obj/Debug/net8.0/DigitExtract.AssemblyInfoInputs.cache
+/Users/artem/RiderProjects/DigitExtraction/DigitExtract/obj/Debug/net8.0/DigitExtract.AssemblyInfo.cs
+/Users/artem/RiderProjects/DigitExtraction/DigitExtract/obj/Debug/net8.0/DigitExtract.csproj.CoreCompileInputs.cache
+/Users/artem/RiderProjects/DigitExtraction/DigitExtract/obj/Debug/net8.0/DigitExtract.dll
+/Users/artem/RiderProjects/DigitExtraction/DigitExtract/obj/Debug/net8.0/refint/DigitExtract.dll
+/Users/artem/RiderProjects/DigitExtraction/DigitExtract/obj/Debug/net8.0/DigitExtract.pdb
+/Users/artem/RiderProjects/DigitExtraction/DigitExtract/obj/Debug/net8.0/ref/DigitExtract.dll
