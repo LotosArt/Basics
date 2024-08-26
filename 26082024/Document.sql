@@ -1,0 +1,6 @@
+CREATE TABLE Documents (
+    Id INT PRIMARY KEY IDENTITY,
+    Name VARCHAR(255) NOT NULL,
+    Filename VARCHAR(255) NOT NULL,
+    FileData VARBINARY(MAX)
+);
